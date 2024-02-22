@@ -28,3 +28,7 @@ To run evaluation with compressed KV cache
 You will need to specify 
 (1) the model checkpoint path
 (2) c4 data path
+
+**Coming Soon**
+ - [ ] Fewshot evaluation Code
+ - [ ] Generation Code
